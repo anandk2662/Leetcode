@@ -32,6 +32,7 @@ Problems I have solved on Leetcode.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anandk2662/Leetcode/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/anandk2662/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -40,6 +41,7 @@ Problems I have solved on Leetcode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anandk2662/Leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anandk2662/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
