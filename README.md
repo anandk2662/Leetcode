@@ -27,6 +27,7 @@ Problems I have solved on Leetcode.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anandk2662/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ Problems I have solved on Leetcode.
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anandk2662/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandk2662/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -64,6 +66,7 @@ Problems I have solved on Leetcode.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anandk2662/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandk2662/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
