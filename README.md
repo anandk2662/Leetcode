@@ -62,6 +62,7 @@ Problems I have solved on Leetcode.
 | [0007-reverse-integer](https://github.com/anandk2662/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anandk2662/Leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
+| [1013-fibonacci-number](https://github.com/anandk2662/Leetcode/tree/master/1013-fibonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -101,4 +102,16 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anandk2662/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anandk2662/Leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anandk2662/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anandk2662/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
