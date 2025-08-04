@@ -51,6 +51,7 @@ Problems I have solved on Leetcode.
 | [0018-4sum](https://github.com/anandk2662/Leetcode/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anandk2662/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/anandk2662/Leetcode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandk2662/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anandk2662/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -94,6 +95,7 @@ Problems I have solved on Leetcode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anandk2662/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/anandk2662/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -116,4 +118,8 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/anandk2662/Leetcode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anandk2662/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
