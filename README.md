@@ -36,6 +36,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anandk2662/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/anandk2662/Leetcode/tree/master/0037-sudoku-solver) |
 | [0560-subarray-sum-equals-k](https://github.com/anandk2662/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anandk2662/Leetcode/tree/master/0567-permutation-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -49,6 +50,7 @@ Problems I have solved on Leetcode.
 | [0001-two-sum](https://github.com/anandk2662/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/anandk2662/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anandk2662/Leetcode/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/anandk2662/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/anandk2662/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anandk2662/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
@@ -87,6 +89,7 @@ Problems I have solved on Leetcode.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anandk2662/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anandk2662/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandk2662/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -125,6 +128,7 @@ Problems I have solved on Leetcode.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anandk2662/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/anandk2662/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anandk2662/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anandk2662/Leetcode/tree/master/0078-subsets) |
