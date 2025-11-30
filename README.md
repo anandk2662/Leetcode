@@ -31,6 +31,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anandk2662/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/anandk2662/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/anandk2662/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anandk2662/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -172,4 +173,8 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anandk2662/Leetcode/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/anandk2662/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
