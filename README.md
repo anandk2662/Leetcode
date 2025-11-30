@@ -31,6 +31,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anandk2662/Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/anandk2662/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anandk2662/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -45,6 +46,7 @@ Problems I have solved on Leetcode.
 | [0138-copy-list-with-random-pointer](https://github.com/anandk2662/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anandk2662/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anandk2662/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/anandk2662/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anandk2662/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anandk2662/Leetcode/tree/master/0567-permutation-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -68,6 +70,7 @@ Problems I have solved on Leetcode.
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandk2662/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anandk2662/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/anandk2662/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anandk2662/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/anandk2662/Leetcode/tree/master/0792-binary-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -165,4 +168,8 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/anandk2662/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anandk2662/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
