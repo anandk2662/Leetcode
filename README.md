@@ -8,6 +8,7 @@ Problems I have solved on Leetcode.
 | ------- |
 | [0015-3sum](https://github.com/anandk2662/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anandk2662/Leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/anandk2662/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/anandk2662/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anandk2662/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anandk2662/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -31,6 +32,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anandk2662/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anandk2662/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anandk2662/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/anandk2662/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/anandk2662/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -64,6 +66,7 @@ Problems I have solved on Leetcode.
 | [0015-3sum](https://github.com/anandk2662/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anandk2662/Leetcode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/anandk2662/Leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/anandk2662/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/anandk2662/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anandk2662/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
@@ -132,6 +135,7 @@ Problems I have solved on Leetcode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anandk2662/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1013-fibonacci-number](https://github.com/anandk2662/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -176,6 +180,7 @@ Problems I have solved on Leetcode.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anandk2662/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anandk2662/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/anandk2662/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anandk2662/Leetcode/tree/master/0503-next-greater-element-ii) |
