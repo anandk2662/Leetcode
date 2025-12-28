@@ -21,6 +21,7 @@ Problems I have solved on Leetcode.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anandk2662/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anandk2662/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/anandk2662/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -50,6 +51,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anandk2662/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anandk2662/Leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/anandk2662/Leetcode/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/anandk2662/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anandk2662/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -91,6 +93,7 @@ Problems I have solved on Leetcode.
 | ------- |
 | [0007-reverse-integer](https://github.com/anandk2662/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anandk2662/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/anandk2662/Leetcode/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/anandk2662/Leetcode/tree/master/1013-fibonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
