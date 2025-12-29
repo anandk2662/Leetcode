@@ -15,6 +15,7 @@ Problems I have solved on Leetcode.
 | [0142-linked-list-cycle-ii](https://github.com/anandk2662/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/anandk2662/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/anandk2662/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anandk2662/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/anandk2662/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/anandk2662/Leetcode/tree/master/0443-string-compression) |
@@ -88,6 +89,7 @@ Problems I have solved on Leetcode.
 | [0189-rotate-array](https://github.com/anandk2662/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandk2662/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/anandk2662/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anandk2662/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/anandk2662/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anandk2662/Leetcode/tree/master/0503-next-greater-element-ii) |
