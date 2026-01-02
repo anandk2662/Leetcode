@@ -57,6 +57,7 @@ Problems I have solved on Leetcode.
 | [0001-two-sum](https://github.com/anandk2662/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anandk2662/Leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/anandk2662/Leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/anandk2662/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/anandk2662/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anandk2662/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anandk2662/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -83,6 +84,7 @@ Problems I have solved on Leetcode.
 | [0046-permutations](https://github.com/anandk2662/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anandk2662/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/anandk2662/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anandk2662/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anandk2662/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anandk2662/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -131,6 +133,7 @@ Problems I have solved on Leetcode.
 | ------- |
 | [0037-sudoku-solver](https://github.com/anandk2662/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/anandk2662/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anandk2662/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandk2662/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
