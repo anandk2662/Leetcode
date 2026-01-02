@@ -82,6 +82,7 @@ Problems I have solved on Leetcode.
 | [0037-sudoku-solver](https://github.com/anandk2662/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/anandk2662/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/anandk2662/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/anandk2662/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/anandk2662/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anandk2662/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -107,6 +108,7 @@ Problems I have solved on Leetcode.
 | [0007-reverse-integer](https://github.com/anandk2662/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anandk2662/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anandk2662/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/anandk2662/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/anandk2662/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/anandk2662/Leetcode/tree/master/0268-missing-number) |
@@ -132,6 +134,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anandk2662/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/anandk2662/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anandk2662/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anandk2662/Leetcode/tree/master/0074-search-a-2d-matrix) |
