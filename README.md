@@ -91,6 +91,7 @@ Problems I have solved on Leetcode.
 | [0078-subsets](https://github.com/anandk2662/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anandk2662/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/anandk2662/Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/anandk2662/Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/anandk2662/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/anandk2662/Leetcode/tree/master/0229-majority-element-ii) |
@@ -168,6 +169,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anandk2662/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/anandk2662/Leetcode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/anandk2662/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
