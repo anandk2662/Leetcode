@@ -106,6 +106,7 @@ Problems I have solved on Leetcode.
 | [0090-subsets-ii](https://github.com/anandk2662/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/anandk2662/Leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anandk2662/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/anandk2662/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/anandk2662/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/anandk2662/Leetcode/tree/master/0217-contains-duplicate) |
@@ -155,6 +156,7 @@ Problems I have solved on Leetcode.
 | [0074-search-a-2d-matrix](https://github.com/anandk2662/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anandk2662/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anandk2662/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/anandk2662/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandk2662/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anandk2662/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anandk2662/Leetcode/tree/master/0287-find-the-duplicate-number) |
