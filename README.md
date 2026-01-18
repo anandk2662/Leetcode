@@ -31,6 +31,7 @@ Problems I have solved on Leetcode.
 | [0020-valid-parentheses](https://github.com/anandk2662/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/anandk2662/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/anandk2662/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/anandk2662/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/anandk2662/Leetcode/tree/master/0443-string-compression) |
@@ -63,6 +64,7 @@ Problems I have solved on Leetcode.
 | [0138-copy-list-with-random-pointer](https://github.com/anandk2662/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anandk2662/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anandk2662/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/anandk2662/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anandk2662/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anandk2662/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anandk2662/Leetcode/tree/master/0229-majority-element-ii) |
