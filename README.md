@@ -125,6 +125,7 @@ Problems I have solved on Leetcode.
 | [0560-subarray-sum-equals-k](https://github.com/anandk2662/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anandk2662/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/anandk2662/Leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/anandk2662/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anandk2662/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
@@ -165,6 +166,7 @@ Problems I have solved on Leetcode.
 | [0349-intersection-of-two-arrays](https://github.com/anandk2662/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anandk2662/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/anandk2662/Leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/anandk2662/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
