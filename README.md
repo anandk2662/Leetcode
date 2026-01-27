@@ -22,6 +22,7 @@ Problems I have solved on Leetcode.
 | [0349-intersection-of-two-arrays](https://github.com/anandk2662/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/anandk2662/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anandk2662/Leetcode/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/anandk2662/Leetcode/tree/master/0832-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/anandk2662/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
@@ -58,6 +59,7 @@ Problems I have solved on Leetcode.
 | ------- |
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/anandk2662/Leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/anandk2662/Leetcode/tree/master/0832-flipping-an-image) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anandk2662/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
@@ -135,6 +137,7 @@ Problems I have solved on Leetcode.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anandk2662/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/anandk2662/Leetcode/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/anandk2662/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0832-flipping-an-image](https://github.com/anandk2662/Leetcode/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/anandk2662/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anandk2662/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anandk2662/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -194,6 +197,7 @@ Problems I have solved on Leetcode.
 | [0073-set-matrix-zeroes](https://github.com/anandk2662/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anandk2662/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandk2662/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/anandk2662/Leetcode/tree/master/0832-flipping-an-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -206,6 +210,7 @@ Problems I have solved on Leetcode.
 | [0090-subsets-ii](https://github.com/anandk2662/Leetcode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/anandk2662/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anandk2662/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/anandk2662/Leetcode/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
