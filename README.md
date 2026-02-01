@@ -36,6 +36,7 @@ Problems I have solved on Leetcode.
 | [0344-reverse-string](https://github.com/anandk2662/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/anandk2662/Leetcode/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/anandk2662/Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/anandk2662/Leetcode/tree/master/0567-permutation-in-string) |
 | [0804-unique-morse-code-words](https://github.com/anandk2662/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anandk2662/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -79,6 +80,7 @@ Problems I have solved on Leetcode.
 | [0349-intersection-of-two-arrays](https://github.com/anandk2662/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/anandk2662/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/anandk2662/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/anandk2662/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anandk2662/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/anandk2662/Leetcode/tree/master/0575-distribute-candies) |
@@ -130,6 +132,7 @@ Problems I have solved on Leetcode.
 | [0349-intersection-of-two-arrays](https://github.com/anandk2662/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/anandk2662/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anandk2662/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/anandk2662/Leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/anandk2662/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anandk2662/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/anandk2662/Leetcode/tree/master/0561-array-partition) |
