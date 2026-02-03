@@ -86,6 +86,7 @@ Problems I have solved on Leetcode.
 | [0567-permutation-in-string](https://github.com/anandk2662/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/anandk2662/Leetcode/tree/master/0575-distribute-candies) |
 | [0804-unique-morse-code-words](https://github.com/anandk2662/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [1512-number-of-good-pairs](https://github.com/anandk2662/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -147,6 +148,7 @@ Problems I have solved on Leetcode.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anandk2662/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anandk2662/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anandk2662/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/anandk2662/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/anandk2662/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anandk2662/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -162,6 +164,7 @@ Problems I have solved on Leetcode.
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/anandk2662/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/anandk2662/Leetcode/tree/master/1013-fibonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/anandk2662/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anandk2662/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Enumeration
@@ -305,6 +308,7 @@ Problems I have solved on Leetcode.
 | ------- |
 | [0229-majority-element-ii](https://github.com/anandk2662/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/anandk2662/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Trie
 |  |
 | ------- |
