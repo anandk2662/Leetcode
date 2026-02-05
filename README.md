@@ -27,6 +27,7 @@ Problems I have solved on Leetcode.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/anandk2662/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anandk2662/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anandk2662/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anandk2662/Leetcode/tree/master/0020-valid-parentheses) |
@@ -68,6 +69,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anandk2662/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/anandk2662/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anandk2662/Leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/anandk2662/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/anandk2662/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -158,6 +160,7 @@ Problems I have solved on Leetcode.
 | ------- |
 | [0007-reverse-integer](https://github.com/anandk2662/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anandk2662/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/anandk2662/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anandk2662/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anandk2662/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anandk2662/Leetcode/tree/master/0066-plus-one) |
