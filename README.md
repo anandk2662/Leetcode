@@ -37,6 +37,7 @@ Problems I have solved on Leetcode.
 | [0205-isomorphic-strings](https://github.com/anandk2662/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/anandk2662/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/anandk2662/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/anandk2662/Leetcode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/anandk2662/Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/anandk2662/Leetcode/tree/master/0567-permutation-in-string) |
@@ -62,6 +63,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/anandk2662/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/anandk2662/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/anandk2662/Leetcode/tree/master/0832-flipping-an-image) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anandk2662/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -167,6 +169,7 @@ Problems I have solved on Leetcode.
 | [0189-rotate-array](https://github.com/anandk2662/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/anandk2662/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/anandk2662/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/anandk2662/Leetcode/tree/master/1013-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/anandk2662/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
