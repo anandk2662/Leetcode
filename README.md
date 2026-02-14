@@ -166,6 +166,7 @@ Problems I have solved on Leetcode.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anandk2662/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/anandk2662/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/anandk2662/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1664-ways-to-make-a-fair-array](https://github.com/anandk2662/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anandk2662/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
@@ -253,6 +254,7 @@ Problems I have solved on Leetcode.
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anandk2662/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/anandk2662/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1664-ways-to-make-a-fair-array](https://github.com/anandk2662/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 ## Dynamic Programming
 |  |
 | ------- |
