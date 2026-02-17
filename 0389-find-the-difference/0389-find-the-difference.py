@@ -5,8 +5,8 @@ class Solution(object):
         :type t: str
         :rtype: str
         """
-        t=list(t)
-        for x in s:
-            if x in t:
-                t.pop(t.index(x))
-        return t[0]
+        for i in t:
+            if i in s and s.count(i)==t.count(i):
+                continue
+            else:
+                return i
