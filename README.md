@@ -6,6 +6,7 @@ Problems I have solved on Leetcode.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anandk2662/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/anandk2662/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anandk2662/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anandk2662/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -31,6 +32,7 @@ Problems I have solved on Leetcode.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anandk2662/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/anandk2662/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anandk2662/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anandk2662/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -282,6 +284,7 @@ Problems I have solved on Leetcode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anandk2662/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/anandk2662/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/anandk2662/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/anandk2662/Leetcode/tree/master/0118-pascals-triangle) |
