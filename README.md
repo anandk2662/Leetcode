@@ -38,6 +38,7 @@ Problems I have solved on Leetcode.
 | [0013-roman-to-integer](https://github.com/anandk2662/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anandk2662/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anandk2662/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/anandk2662/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anandk2662/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anandk2662/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/anandk2662/Leetcode/tree/master/0125-valid-palindrome) |
@@ -90,6 +91,7 @@ Problems I have solved on Leetcode.
 | [0012-integer-to-roman](https://github.com/anandk2662/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anandk2662/Leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/anandk2662/Leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/anandk2662/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anandk2662/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/anandk2662/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anandk2662/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -137,6 +139,7 @@ Problems I have solved on Leetcode.
 | [0042-trapping-rain-water](https://github.com/anandk2662/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/anandk2662/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/anandk2662/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/anandk2662/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anandk2662/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anandk2662/Leetcode/tree/master/0055-jump-game) |
@@ -270,6 +273,7 @@ Problems I have solved on Leetcode.
 | ------- |
 | [0015-3sum](https://github.com/anandk2662/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anandk2662/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/anandk2662/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anandk2662/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/anandk2662/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anandk2662/Leetcode/tree/master/0229-majority-element-ii) |
