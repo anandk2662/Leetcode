@@ -1,10 +1,9 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        flag=False
-
-        for i in ransomNote:
-            if i in magazine and magazine.count(i)>=ransomNote.count(i):
-                continue
-            else:
+        ransomeNote=Counter(ransomNote)
+        magazine=Counter(magazine)
+        for key,val in ransomeNote.items():
+            if magazine[key]<val:
                 return False
+
         return True
