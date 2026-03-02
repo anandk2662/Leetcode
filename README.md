@@ -48,6 +48,7 @@ Problems I have solved on Leetcode.
 | [0290-word-pattern](https://github.com/anandk2662/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/anandk2662/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anandk2662/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/anandk2662/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anandk2662/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/anandk2662/Leetcode/tree/master/0412-fizz-buzz) |
@@ -105,6 +106,7 @@ Problems I have solved on Leetcode.
 | [0290-word-pattern](https://github.com/anandk2662/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/anandk2662/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandk2662/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/anandk2662/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anandk2662/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anandk2662/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -368,6 +370,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anandk2662/Leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/anandk2662/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/anandk2662/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/anandk2662/Leetcode/tree/master/1512-number-of-good-pairs) |
