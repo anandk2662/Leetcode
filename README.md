@@ -30,6 +30,7 @@ Problems I have solved on Leetcode.
 | [0567-permutation-in-string](https://github.com/anandk2662/Leetcode/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/anandk2662/Leetcode/tree/master/0832-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/anandk2662/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/anandk2662/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Problems I have solved on Leetcode.
 | [0804-unique-morse-code-words](https://github.com/anandk2662/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/anandk2662/Leetcode/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/anandk2662/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/anandk2662/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anandk2662/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anandk2662/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anandk2662/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -288,6 +290,7 @@ Problems I have solved on Leetcode.
 | [0455-assign-cookies](https://github.com/anandk2662/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/anandk2662/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/anandk2662/Leetcode/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/anandk2662/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
