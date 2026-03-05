@@ -425,4 +425,8 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/anandk2662/Leetcode/tree/master/0506-relative-ranks) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/anandk2662/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
