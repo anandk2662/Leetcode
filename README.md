@@ -117,6 +117,7 @@ Problems I have solved on Leetcode.
 | [0560-subarray-sum-equals-k](https://github.com/anandk2662/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anandk2662/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/anandk2662/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/anandk2662/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0804-unique-morse-code-words](https://github.com/anandk2662/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/anandk2662/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1370-increasing-decreasing-string](https://github.com/anandk2662/Leetcode/tree/master/1370-increasing-decreasing-string) |
@@ -128,6 +129,7 @@ Problems I have solved on Leetcode.
 | [0209-minimum-size-subarray-sum](https://github.com/anandk2662/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/anandk2662/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/anandk2662/Leetcode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/anandk2662/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Problems I have solved on Leetcode.
 | [0560-subarray-sum-equals-k](https://github.com/anandk2662/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/anandk2662/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/anandk2662/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/anandk2662/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/anandk2662/Leetcode/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anandk2662/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/anandk2662/Leetcode/tree/master/0792-binary-search) |
@@ -292,6 +295,7 @@ Problems I have solved on Leetcode.
 | [0455-assign-cookies](https://github.com/anandk2662/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/anandk2662/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/anandk2662/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/anandk2662/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/anandk2662/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -379,6 +383,7 @@ Problems I have solved on Leetcode.
 | [0229-majority-element-ii](https://github.com/anandk2662/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/anandk2662/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/anandk2662/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/anandk2662/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1370-increasing-decreasing-string](https://github.com/anandk2662/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/anandk2662/Leetcode/tree/master/1512-number-of-good-pairs) |
