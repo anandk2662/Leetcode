@@ -61,6 +61,7 @@ Problems I have solved on Leetcode.
 | [0709-to-lower-case](https://github.com/anandk2662/Leetcode/tree/master/0709-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/anandk2662/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/anandk2662/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/anandk2662/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1370-increasing-decreasing-string](https://github.com/anandk2662/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anandk2662/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -385,6 +386,7 @@ Problems I have solved on Leetcode.
 | [0387-first-unique-character-in-a-string](https://github.com/anandk2662/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/anandk2662/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/anandk2662/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/anandk2662/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1370-increasing-decreasing-string](https://github.com/anandk2662/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/anandk2662/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Trie
@@ -425,6 +427,7 @@ Problems I have solved on Leetcode.
 | [0134-gas-station](https://github.com/anandk2662/Leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/anandk2662/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/anandk2662/Leetcode/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/anandk2662/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting Sort
 |  |
 | ------- |
