@@ -219,6 +219,7 @@ Problems I have solved on Leetcode.
 | [0268-missing-number](https://github.com/anandk2662/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/anandk2662/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/anandk2662/Leetcode/tree/master/1013-fibonacci-number) |
+| [1323-maximum-69-number](https://github.com/anandk2662/Leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/anandk2662/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anandk2662/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -428,6 +429,7 @@ Problems I have solved on Leetcode.
 | [0455-assign-cookies](https://github.com/anandk2662/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/anandk2662/Leetcode/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/anandk2662/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/anandk2662/Leetcode/tree/master/1323-maximum-69-number) |
 ## Counting Sort
 |  |
 | ------- |
