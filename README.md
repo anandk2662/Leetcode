@@ -64,6 +64,7 @@ Problems I have solved on Leetcode.
 | [1221-split-a-string-in-balanced-strings](https://github.com/anandk2662/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1370-increasing-decreasing-string](https://github.com/anandk2662/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anandk2662/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2864-maximum-odd-binary-number](https://github.com/anandk2662/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Problems I have solved on Leetcode.
 | [1013-fibonacci-number](https://github.com/anandk2662/Leetcode/tree/master/1013-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/anandk2662/Leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/anandk2662/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2864-maximum-odd-binary-number](https://github.com/anandk2662/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anandk2662/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Enumeration
@@ -430,6 +432,7 @@ Problems I have solved on Leetcode.
 | [0561-array-partition](https://github.com/anandk2662/Leetcode/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/anandk2662/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/anandk2662/Leetcode/tree/master/1323-maximum-69-number) |
+| [2864-maximum-odd-binary-number](https://github.com/anandk2662/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Counting Sort
 |  |
 | ------- |
