@@ -160,6 +160,7 @@ Problems I have solved on Leetcode.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anandk2662/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anandk2662/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/anandk2662/Leetcode/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anandk2662/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/anandk2662/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anandk2662/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/anandk2662/Leetcode/tree/master/0134-gas-station) |
@@ -271,6 +272,7 @@ Problems I have solved on Leetcode.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anandk2662/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandk2662/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -400,6 +402,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anandk2662/Leetcode/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anandk2662/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandk2662/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandk2662/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/anandk2662/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -407,6 +410,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anandk2662/Leetcode/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anandk2662/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandk2662/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandk2662/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/anandk2662/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -445,4 +449,8 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/anandk2662/Leetcode/tree/master/0584-find-customer-referee) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anandk2662/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
