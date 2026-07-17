@@ -168,6 +168,7 @@ Problems I have solved on Leetcode.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anandk2662/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anandk2662/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/anandk2662/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/anandk2662/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/anandk2662/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/anandk2662/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/anandk2662/Leetcode/tree/master/0217-contains-duplicate) |
@@ -268,6 +269,7 @@ Problems I have solved on Leetcode.
 | [0054-spiral-matrix](https://github.com/anandk2662/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anandk2662/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anandk2662/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/anandk2662/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anandk2662/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/anandk2662/Leetcode/tree/master/0832-flipping-an-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/anandk2662/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -360,6 +362,7 @@ Problems I have solved on Leetcode.
 | [0100-same-tree](https://github.com/anandk2662/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandk2662/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandk2662/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/anandk2662/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anandk2662/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anandk2662/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anandk2662/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -435,6 +438,7 @@ Problems I have solved on Leetcode.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anandk2662/Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/anandk2662/Leetcode/tree/master/0200-number-of-islands) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/anandk2662/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
@@ -476,4 +480,8 @@ Problems I have solved on Leetcode.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anandk2662/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/anandk2662/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anandk2662/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anandk2662/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
