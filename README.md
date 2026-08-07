@@ -201,6 +201,7 @@ Problems I have solved on Leetcode.
 | [0792-binary-search](https://github.com/anandk2662/Leetcode/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/anandk2662/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/anandk2662/Leetcode/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anandk2662/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anandk2662/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/anandk2662/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/anandk2662/Leetcode/tree/master/0994-rotting-oranges) |
@@ -261,6 +262,7 @@ Problems I have solved on Leetcode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandk2662/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anandk2662/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/anandk2662/Leetcode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anandk2662/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anandk2662/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anandk2662/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anandk2662/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -514,4 +516,8 @@ Problems I have solved on Leetcode.
 | ------- |
 | [0207-course-schedule](https://github.com/anandk2662/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anandk2662/Leetcode/tree/master/0210-course-schedule-ii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anandk2662/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
